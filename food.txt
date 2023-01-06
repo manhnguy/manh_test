@@ -1,9 +1,3 @@
 I'm hungry 
 blablabala
 
-<<<<<<< Updated upstream
-ollhajhaohak
-=======
-
-Another bakakahdhhad
->>>>>>> Stashed changes
