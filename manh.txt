@@ -4,4 +4,8 @@ Edit local
 
 edite on web
 
+<<<<<<< Updated upstream
 edite on web 
+=======
+Edit local
+>>>>>>> Stashed changes
